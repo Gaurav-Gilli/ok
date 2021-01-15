@@ -1,0 +1,89 @@
+body{
+  margin: 0;
+  padding: 0;
+  color: white;
+
+}
+img{
+  border-radius: 50%;
+  display: block;
+
+}
+.bottom-container{
+  text-align: center;
+  font-family: 'Fraunces', serif;
+  background-color: black;
+}
+
+.steve{
+
+  padding-top: 90px;
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.ok{
+  position: absolute;
+  border-radius: 0;
+  margin-top: 10px;
+  margin-top: 0;
+    margin-left: 24px;
+    padding: 0;
+}
+
+.container {
+  position: relative;
+  top: 0;
+background-color: black;
+height: 400px;
+width: 100%;
+}
+h1{
+  font-family: 'Kaushan Script', cursive;
+  position: absolute;
+  font-size: 60px;
+  margin-left: 300px;
+  margin-top: 180px;
+}
+.mine{
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 0;
+  border-style: solid;
+  border-color: white;
+
+
+  height: 150px;
+  width: 150px;
+}
+.word{
+  margin-left: auto;
+  margin-right: auto;
+}
+.middle-container{
+  font-family: 'Yeon Sung', cursive;
+  text-align: center;
+  background-color: black;
+
+}
+hr{
+  color: #7c9473;
+}
+.sword{
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 0;
+  border-style: solid;
+  border-color: black;
+  height: 150px;
+  width: 150px;
+}
+.someone{
+  position: absolute;
+  margin-left: 470px;
+  margin-top: 260px;
+}
+.contact-me{
+  font-family: 'Fraunces', serif;
+}
